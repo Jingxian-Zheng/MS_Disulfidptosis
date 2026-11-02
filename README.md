@@ -4,7 +4,7 @@ Reproducible code accompanying **Stromal transcriptional features and DSE networ
 perturbation in multiple sclerosis**, a manuscript revision prepared for PLOS ONE.
 The manuscript is not represented here as an accepted or published article.
 
-[中文说明](README.zh-CN.md) · [Reproduction guide](docs/REPRODUCIBILITY.md) ·
+[Reproduction guide](docs/REPRODUCIBILITY.md) ·
 [Code inventory](provenance/source_inventory.csv) · [License notices](THIRD_PARTY_NOTICES.md)
 
 ## Scope and analysis versions
