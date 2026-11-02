@@ -1,0 +1,14 @@
+{
+  "n_genes": 719,
+  "HVG": 1000,
+  "minimum_detection_fraction": 0.05,
+  "nNet": 10,
+  "nCells": 150,
+  "nComp": 3,
+  "td_K": 3,
+  "ma_nDim": 2,
+  "ma_method": "manifold",
+  "dr_direction": false,
+  "nCores": 1,
+  "base_seed": 20261026
+}

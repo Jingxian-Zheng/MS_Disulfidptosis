@@ -1,0 +1,52 @@
+[
+  {
+    "fold": 1,
+    "config": {
+      "algorithm": "NaiveBayes",
+      "parameter": {
+        "laplace": 1
+      }
+    },
+    "outer_AUC": 0.4167
+  },
+  {
+    "fold": 2,
+    "config": {
+      "algorithm": "kNN",
+      "parameter": {
+        "k": 7
+      }
+    },
+    "outer_AUC": 0.3083
+  },
+  {
+    "fold": 3,
+    "config": {
+      "algorithm": "kNN",
+      "parameter": {
+        "k": 11
+      }
+    },
+    "outer_AUC": 0.4583
+  },
+  {
+    "fold": 4,
+    "config": {
+      "algorithm": "DecisionTree",
+      "parameter": {
+        "cp": 0.05
+      }
+    },
+    "outer_AUC": 0.3694
+  },
+  {
+    "fold": 5,
+    "config": {
+      "algorithm": "NaiveBayes",
+      "parameter": {
+        "laplace": 1
+      }
+    },
+    "outer_AUC": 0.5848
+  }
+]

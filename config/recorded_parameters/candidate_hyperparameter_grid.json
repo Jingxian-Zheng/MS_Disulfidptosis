@@ -1,0 +1,201 @@
+[
+  {
+    "algorithm": "LASSO",
+    "parameter": {
+      "lambda": 0.001,
+      "alpha": 1
+    }
+  },
+  {
+    "algorithm": "LASSO",
+    "parameter": {
+      "lambda": 0.01,
+      "alpha": 1
+    }
+  },
+  {
+    "algorithm": "LASSO",
+    "parameter": {
+      "lambda": 0.1,
+      "alpha": 1
+    }
+  },
+  {
+    "algorithm": "LASSO",
+    "parameter": {
+      "lambda": 1,
+      "alpha": 1
+    }
+  },
+  {
+    "algorithm": "Ridge",
+    "parameter": {
+      "lambda": 0.001,
+      "alpha": 0
+    }
+  },
+  {
+    "algorithm": "Ridge",
+    "parameter": {
+      "lambda": 0.01,
+      "alpha": 0
+    }
+  },
+  {
+    "algorithm": "Ridge",
+    "parameter": {
+      "lambda": 0.1,
+      "alpha": 0
+    }
+  },
+  {
+    "algorithm": "Ridge",
+    "parameter": {
+      "lambda": 1,
+      "alpha": 0
+    }
+  },
+  {
+    "algorithm": "ElasticNet",
+    "parameter": {
+      "lambda": 0.001,
+      "alpha": 0.5
+    }
+  },
+  {
+    "algorithm": "ElasticNet",
+    "parameter": {
+      "lambda": 0.01,
+      "alpha": 0.5
+    }
+  },
+  {
+    "algorithm": "ElasticNet",
+    "parameter": {
+      "lambda": 0.1,
+      "alpha": 0.5
+    }
+  },
+  {
+    "algorithm": "ElasticNet",
+    "parameter": {
+      "lambda": 1,
+      "alpha": 0.5
+    }
+  },
+  {
+    "algorithm": "RandomForest",
+    "parameter": {
+      "mtry": 3,
+      "ntree": 500
+    }
+  },
+  {
+    "algorithm": "RandomForest",
+    "parameter": {
+      "mtry": 7,
+      "ntree": 500
+    }
+  },
+  {
+    "algorithm": "SVM",
+    "parameter": {
+      "cost": 0.1,
+      "gamma": 0.0714
+    }
+  },
+  {
+    "algorithm": "SVM",
+    "parameter": {
+      "cost": 1,
+      "gamma": 0.0714
+    }
+  },
+  {
+    "algorithm": "SVM",
+    "parameter": {
+      "cost": 10,
+      "gamma": 0.0714
+    }
+  },
+  {
+    "algorithm": "GBM",
+    "parameter": {
+      "n.trees": 100,
+      "depth": 1,
+      "shrinkage": 0.01,
+      "n.minobsinnode": 5
+    }
+  },
+  {
+    "algorithm": "GBM",
+    "parameter": {
+      "n.trees": 100,
+      "depth": 2,
+      "shrinkage": 0.01,
+      "n.minobsinnode": 5
+    }
+  },
+  {
+    "algorithm": "GBM",
+    "parameter": {
+      "n.trees": 300,
+      "depth": 1,
+      "shrinkage": 0.01,
+      "n.minobsinnode": 5
+    }
+  },
+  {
+    "algorithm": "GBM",
+    "parameter": {
+      "n.trees": 300,
+      "depth": 2,
+      "shrinkage": 0.01,
+      "n.minobsinnode": 5
+    }
+  },
+  {
+    "algorithm": "kNN",
+    "parameter": {
+      "k": 3
+    }
+  },
+  {
+    "algorithm": "kNN",
+    "parameter": {
+      "k": 7
+    }
+  },
+  {
+    "algorithm": "kNN",
+    "parameter": {
+      "k": 11
+    }
+  },
+  {
+    "algorithm": "NaiveBayes",
+    "parameter": {
+      "laplace": 1
+    }
+  },
+  {
+    "algorithm": "LDA",
+    "parameter": []
+  },
+  {
+    "algorithm": "StepwiseLogistic",
+    "parameter": []
+  },
+  {
+    "algorithm": "DecisionTree",
+    "parameter": {
+      "cp": 0.01
+    }
+  },
+  {
+    "algorithm": "DecisionTree",
+    "parameter": {
+      "cp": 0.05
+    }
+  }
+]

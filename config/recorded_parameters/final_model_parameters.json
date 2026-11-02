@@ -1,0 +1,12 @@
+{
+  "algorithm": "NaiveBayes",
+  "parameters": {
+    "laplace": 1
+  },
+  "threshold": 0.5,
+  "seed": 20261026,
+  "outer_folds": 5,
+  "inner_folds": 4,
+  "external_missing_gene": "OSBPL5; imputed with training median",
+  "frozen_rank_universe": 10380
+}

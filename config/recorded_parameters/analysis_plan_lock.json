@@ -1,0 +1,42 @@
+{
+  "training": "GSE17048",
+  "previously_examined_cross_tissue": "GSE32915",
+  "additional_external": "GSE203241",
+  "candidate_features": [
+    "FMO2",
+    "SLC6A20",
+    "PTGIS",
+    "BHMT2",
+    "HSD11B1",
+    "DSE",
+    "OSBPL5",
+    "ATP10D",
+    "IRS1",
+    "CALU",
+    "SEC61A1",
+    "RRBP1",
+    "PRKAA1",
+    "MTAP"
+  ],
+  "preprocessing": "Uncentered GEO processed probe signals; log2 transform if non-log; arithmetic mean of log2 probes per gene; single-sample percentile ranks within fixed shared annotated mRNA universe; fold-local median imputation and scaling",
+  "outer_folds": 5,
+  "inner_folds": 4,
+  "algorithms": [
+    "LASSO",
+    "Ridge",
+    "ElasticNet",
+    "RandomForest",
+    "SVM",
+    "GBM",
+    "kNN",
+    "NaiveBayes",
+    "LDA",
+    "StepwiseLogistic",
+    "DecisionTree"
+  ],
+  "selection": "maximum mean inner-fold AUC, training only; ties lower model complexity in fixed order",
+  "external_rule": "frozen trained pipeline, fixed AUC direction and threshold 0.5; evaluate once; no retuning based on external data",
+  "seed": 20261026,
+  "bootstrap": 2000,
+  "created_utc": "2026-10-26T15:53:22.732178+00:00"
+}
