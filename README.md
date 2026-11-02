@@ -55,11 +55,9 @@ Detailed requirements and upstream-stage inputs are in the reproduction guide.
 | `code/` | Revised analyses and optional Illustrator finishing script |
 | `config/` | Data checksum, recorded seeds and model parameters |
 | `resources/` | Frozen candidate genes, checkpoints and independent TF targets |
-| `results/reference/` | All 40 CSV tables from the completed revision |
 | `environment/` | Observed package versions and installation guidance |
 | `tools/`, `tests/` | Safe data preparation and source/distribution checks |
 | `archive/` | Historical analyses and one-time migrations |
-| `third_party/` | Separately attributed third-party source and licenses |
 | `provenance/` | Source coverage, data accessions and checksums |
 
 The raw whole atlas, raw Visium files, model weights, R workspaces, manuscripts,
