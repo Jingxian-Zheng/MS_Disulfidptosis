@@ -1,0 +1,135 @@
+[
+  {
+    "file": "ctype_SC.h5ad",
+    "status": "verified",
+    "bytes": 5794791,
+    "sha256": "ecc3cce46f01379b358e6ee147c39194f6ae86057e0a635e5da761ca539a8207",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/955842d4-014c-431f-a0f4-21c0c8f8b318?catalog=dcp60&version=2024-10-28T11%3A36%3A35.750000Z"
+  },
+  {
+    "file": "visium_CO37.h5ad",
+    "status": "verified",
+    "bytes": 234102218,
+    "sha256": "3ee74f0f366fc874bf5875fc337470da8fff801c706ae2cae254fd39fa1e560d",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/4a712907-8c07-4f3a-969d-cc4004b7c8da?catalog=dcp60&version=2024-10-28T11%3A36%3A35.796000Z"
+  },
+  {
+    "file": "visium_CO40.h5ad",
+    "status": "verified",
+    "bytes": 222134488,
+    "sha256": "1cd27bba0c1b91fd4bd2d8951be088f03b0fd3e9d399b2f9c147b09f59dde9ea",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/5838f09b-d49d-4230-a3d0-14469b1b7152?catalog=dcp60&version=2024-10-28T11%3A36%3A35.833000Z"
+  },
+  {
+    "file": "visium_CO41.h5ad",
+    "status": "verified",
+    "bytes": 224616568,
+    "sha256": "04e9f2a7419ea3c88967c8d46e49a5de903e4bed7f73692425d0f89f02600e58",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/1da89db2-18b0-4164-b54e-dc1f0ff72280?catalog=dcp60&version=2024-10-28T11%3A36%3A35.850000Z"
+  },
+  {
+    "file": "visium_CO74.h5ad",
+    "status": "verified",
+    "bytes": 202040360,
+    "sha256": "fa643d70607411eab5f501ceca656d099733dd72e9ccb226988c85d553643006",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/73a2bc0c-ab05-40f4-b596-b7c9f71f543a?catalog=dcp60&version=2024-10-28T11%3A36%3A35.867000Z"
+  },
+  {
+    "file": "visium_CO85.h5ad",
+    "status": "verified",
+    "bytes": 235780242,
+    "sha256": "4ef650351132b942a18b858325eecf7267e841d1a0a6f773c33bfa6c6cb08c3c",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/4056099f-c287-4b11-8016-83bbdde6d303?catalog=dcp60&version=2024-10-28T11%3A36%3A35.882000Z"
+  },
+  {
+    "file": "visium_CO96.h5ad",
+    "status": "verified",
+    "bytes": 198458400,
+    "sha256": "72714ef15af297d3c3810b4008f6ca829fab63a5a0025ac5678f8996172f36a6",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/b965ae8a-2f38-4061-b67e-1ed7699485e6?catalog=dcp60&version=2024-10-28T11%3A36%3A35.898000Z"
+  },
+  {
+    "file": "visium_MS197D.h5ad",
+    "status": "verified",
+    "bytes": 203896869,
+    "sha256": "37f872f5bc27fe47311be6734c5f95fa87a46c88b891130572796bf9f163d5cf",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/894eb9e5-e6c2-4b2f-9d69-e5e9d0269c32?catalog=dcp60&version=2024-10-28T11%3A36%3A35.927000Z"
+  },
+  {
+    "file": "visium_MS197U.h5ad",
+    "status": "verified",
+    "bytes": 219300812,
+    "sha256": "32eccacea2b48152282fdde3f77ceb96d4e0a5593fc25d04590d7c4bbaeb16ca",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/2f97068d-7e3f-491f-a93b-b1f32e65775b?catalog=dcp60&version=2024-10-28T11%3A36%3A35.942000Z"
+  },
+  {
+    "file": "visium_MS229.h5ad",
+    "status": "verified",
+    "bytes": 133157588,
+    "sha256": "038e39843904e523600ae4c009eaf3fabcc63b7e384b7e405790ef1aefe323e4",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/3b2b3372-3228-4436-a422-683f1080d226?catalog=dcp60&version=2024-10-28T11%3A36%3A35.960000Z"
+  },
+  {
+    "file": "visium_MS377I.h5ad",
+    "status": "verified",
+    "bytes": 235526420,
+    "sha256": "6e8863752ac4d9d1586e864b28f0fcabb67d2dc83613f89d22e3fb140f3191be",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/75f78acd-48fb-4149-9c3b-fe6500b864b9?catalog=dcp60&version=2024-10-28T11%3A36%3A36.006000Z"
+  },
+  {
+    "file": "visium_MS377N.h5ad",
+    "status": "verified",
+    "bytes": 226366824,
+    "sha256": "244611a310d4c3be8323331bbea05fa2d19faaaf5ac4799192ab44755cebb019",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/0ddae962-997b-4d88-b94b-6608e7719968?catalog=dcp60&version=2024-10-28T11%3A36%3A35.976000Z"
+  },
+  {
+    "file": "visium_MS377T.h5ad",
+    "status": "verified",
+    "bytes": 190748373,
+    "sha256": "308f4940ada01a9cc747660f4d1025984072b355b73d2ad2646104464762dd73",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/70966e1a-501f-4fb3-ad58-538ed1d7a92c?catalog=dcp60&version=2024-10-28T11%3A36%3A35.991000Z"
+  },
+  {
+    "file": "visium_MS411.h5ad",
+    "status": "verified",
+    "bytes": 162125901,
+    "sha256": "4e70f4f9046801b61f3228e666718f507dcab15cc77b1dbab33aecfe8f54baa0",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/cd403303-f270-42e3-86c6-2d0a2e87cff0?catalog=dcp60&version=2024-10-28T11%3A36%3A36.021000Z"
+  },
+  {
+    "file": "visium_MS497I.h5ad",
+    "status": "verified",
+    "bytes": 213935193,
+    "sha256": "8671f75ccd3416852355451d5fa6169145b802a1178a7304e9b842b8f6b0d53f",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/e4194216-b71c-48cf-b2ec-5a6befa55554?catalog=dcp60&version=2024-10-28T11%3A36%3A36.034000Z"
+  },
+  {
+    "file": "visium_MS497T.h5ad",
+    "status": "verified",
+    "bytes": 226621060,
+    "sha256": "02df49d0af53fa8ba3b77341799e2369ae1906b214b6602996eff431d8676279",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/f2153aa4-d785-48bc-b550-c22deb560c1c?catalog=dcp60&version=2024-10-28T11%3A36%3A36.051000Z"
+  },
+  {
+    "file": "visium_MS549H.h5ad",
+    "status": "verified",
+    "bytes": 220595544,
+    "sha256": "8a7975bb834bb8dc7b898db75a685558ee415292f328b35bc59de8cb3c00b611",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/235d81a6-9131-457f-b9e2-b0dab7c8a76c?catalog=dcp60&version=2024-10-28T11%3A36%3A36.065000Z"
+  },
+  {
+    "file": "visium_MS549T.h5ad",
+    "status": "verified",
+    "bytes": 157900701,
+    "sha256": "9ea85738bd65931ce58ded68249c73fe561fa9c6b786bfb04ce4861b5a749cb7",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/54be9d91-5f36-4b93-8809-df1bd49f47e8?catalog=dcp60&version=2024-10-28T11%3A36%3A36.083000Z"
+  },
+  {
+    "file": "visium_MS94.h5ad",
+    "status": "verified",
+    "bytes": 182414841,
+    "sha256": "5ad78afdf9b66338d536beaa083171671fb99f9d1cd7367d09101789512af010",
+    "source": "https://service.azul.data.humancellatlas.org/repository/files/4181c704-09ed-4a54-98fa-60e95563e51e?catalog=dcp60&version=2024-10-28T11%3A36%3A35.913000Z"
+  }
+]

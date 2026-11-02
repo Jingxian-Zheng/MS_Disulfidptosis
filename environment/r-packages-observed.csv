@@ -1,0 +1,27 @@
+package,observed_version,repository,remote_owner,remote_repo,remote_sha,source,source_version
+Seurat,5.0.1,CRAN,,,,observed analysis environment,5.0.1
+Matrix,1.6.4,CRAN,,,,observed analysis environment,1.6-4
+edgeR,4.0.16,Bioconductor 3.18,,,,observed analysis environment,4.0.16
+limma,3.58.1,,,,,observed analysis environment,3.58.1
+jsonlite,1.8.8,CRAN,,,,observed analysis environment,1.8.8
+ggplot2,4.0.2,CRAN,,,,observed analysis environment,4.0.2
+patchwork,1.3.0,CRAN,,,,observed analysis environment,1.3.0
+svglite,2.1.3,CRAN,,,,observed analysis environment,2.1.3
+pROC,1.19.0.1,CRAN,,,,observed analysis environment,1.19.0.1
+GSVA,1.50.5,Bioconductor 3.18,,,,observed analysis environment,1.50.5
+IOBR,2.2.0.9000,,IOBR,IOBR,1725e7d6e8a48c7577131b16a7221dd50cb34682,observed analysis environment,2.2.0.9000
+CellChat,2.1.2,,jinworks,CellChat,88c2e13cb2eec53299072314bccafda33f8a7a1d,observed analysis environment,2.1.2
+scTenifoldNet,1.4.3,,,,,vendored source,1.4.3
+glmnet,4.1.10,CRAN,,,,observed analysis environment,4.1-10
+randomForest,4.7.1.2,CRAN,,,,observed analysis environment,4.7-1.2
+e1071,1.7.17,CRAN,,,,observed analysis environment,1.7-17
+gbm,2.2.2,CRAN,,,,observed analysis environment,2.2.2
+kknn,1.3.1,CRAN,,,,observed analysis environment,1.3.1
+MASS,7.3.60,CRAN,,,,observed analysis environment,7.3-60
+rpart,4.1.23,CRAN,,,,observed analysis environment,4.1.23
+hdf5r,1.3.12,CRAN,,,,observed analysis environment,1.3.12
+nlme,3.1.164,CRAN,,,,observed analysis environment,3.1-164
+RANN,2.6.2,CRAN,,,,observed analysis environment,2.6.2
+cli,3.6.2,CRAN,,,,observed analysis environment,3.6.2
+reshape2,1.4.4,CRAN,,,,observed analysis environment,1.4.4
+igraph,1.6.0,CRAN,,,,observed analysis environment,1.6.0

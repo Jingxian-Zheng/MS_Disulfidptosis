@@ -1,0 +1,722 @@
+[
+  {
+    "archive_path": "tables/S01_original_gene_set_complete.csv",
+    "bytes": 127971,
+    "sha256": "136248cc8c5d7b1682e192df0d443392235a91e3d94a34d1ac28ddec3cf21af7"
+  },
+  {
+    "archive_path": "tables/S01_selected_gene_provenance.csv",
+    "bytes": 229,
+    "sha256": "a730ffb9ba4cf9222f6b0570c71e449623f4740f52b88b71e9bd176d628d8d6d"
+  },
+  {
+    "archive_path": "tables/S02_donor_cell_counts.csv",
+    "bytes": 1920,
+    "sha256": "e77edfbf07bd6888e542e51dea47eaea218435031cb6ab9f4b185922bbeb400b"
+  },
+  {
+    "archive_path": "tables/S02_sample_cell_counts.csv",
+    "bytes": 2607,
+    "sha256": "6769d3f63172c891b787408f5a51cf7d1adba33a14000725ee8e0e97dca34d4e"
+  },
+  {
+    "archive_path": "tables/S02_sample_donor_metadata.csv",
+    "bytes": 903,
+    "sha256": "d4ac29e447a45c3a34dd403b87f63a249ccb81ffbf1aec4a142f3a8b69bc4c8d"
+  },
+  {
+    "archive_path": "tables/S02_stromal_subtype_counts.csv",
+    "bytes": 2933,
+    "sha256": "ba5600c78b8f02475a0fbb46bce536f4aff87c83988fca104eea9484e06ec90e"
+  },
+  {
+    "archive_path": "tables/S03_donor_celltype_module_scores.csv",
+    "bytes": 5742,
+    "sha256": "7170848dceecfff0cca48155c051f7825da9bdc0ba5d1d3c0fc7fdf418a7b638"
+  },
+  {
+    "archive_path": "tables/S03_sparse_stromal_donor_module_tests.csv",
+    "bytes": 307,
+    "sha256": "97ed2b6a02b77a394683f4098f35d21548be5baf0594c805b8d5337f4a1d0648"
+  },
+  {
+    "archive_path": "tables/S04_donor_aware_DE_all_eligible_celltypes.csv",
+    "bytes": 12507889,
+    "sha256": "11b063e97646a2fbc6741d90935a23972d5c5fd67d76b4f0c300c727c0b0264e"
+  },
+  {
+    "archive_path": "tables/S04_pseudobulk_eligibility.csv",
+    "bytes": 227,
+    "sha256": "107644b3d35328e5c5ad576ac6dd53376d8cab9dba0ef4ffd1dbe7c038301309"
+  },
+  {
+    "archive_path": "tables/S05_B_cell_communication_sensitivity.csv",
+    "bytes": 738157,
+    "sha256": "8ee8fabfaeb8ff8f00572d6b448fb69ddcde58e36c5aadead0671ac7b3b6e63a"
+  },
+  {
+    "archive_path": "tables/S05_B_cell_network_summary.csv",
+    "bytes": 105,
+    "sha256": "7b6b1e8d05607195c6db805b3b25af73ab0e6ccc0c2aa5aefc2720a98517cd91"
+  },
+  {
+    "archive_path": "tables/S05_contribution_score_sensitivity.csv",
+    "bytes": 8798,
+    "sha256": "6814ee3552c4c83e732ebf4bab607d374db00a4db13ffa3a33bb72fa8b3c2a7d"
+  },
+  {
+    "archive_path": "tables/S05_source_subtype_marker_validation.csv",
+    "bytes": 17607,
+    "sha256": "6519af94449819e2800d0084d472355bb5d1bece43e72023b7eca0c6c9a673bf"
+  },
+  {
+    "archive_path": "tables/S05_subtype_annotation_evidence.csv",
+    "bytes": 1494,
+    "sha256": "504f984b677d00797e8206f0d2168c0f11a84a48f47357a19d31083da3e0f9c1"
+  },
+  {
+    "archive_path": "tables/S05_subtype_marker_expression.csv",
+    "bytes": 18049,
+    "sha256": "718450d1b45ddb5e1954ebbf9355d64e86ac028f9c26cda5866b2a72128eafce"
+  },
+  {
+    "archive_path": "tables/S06_model_performance.csv",
+    "bytes": 1107,
+    "sha256": "3e98d17a2693e66a29d13f2049cfc90d4d3d058c58aa37a46f56b462def4a9bf"
+  },
+  {
+    "archive_path": "tables/S06_original_expression_nested_metrics.csv",
+    "bytes": 463,
+    "sha256": "c195abdc337f5e6de44eb5a2ed18b893c5aa4d6b417282dc8dfae3fa9f44260a"
+  },
+  {
+    "archive_path": "tables/S06_original_ROC_direction_audit.csv",
+    "bytes": 108,
+    "sha256": "abb020305bbe1dd0224faedc78ef79a1cbd06b68212da2c208dc693911ff75bb"
+  },
+  {
+    "archive_path": "tables/S07_independent_TF_target_sets.csv",
+    "bytes": 4104,
+    "sha256": "7b450521322f899b1e40773a791eb6fee1c085f2b849c3fc0d30d9772e02ae8d"
+  },
+  {
+    "archive_path": "tables/S07_spatial_section_manifest.csv",
+    "bytes": 1030,
+    "sha256": "cc22e65046c0339e392fb10b258017d77c760110bf1238e9e0c6e8e754da8a3c"
+  },
+  {
+    "archive_path": "tables/S08_all_section_spatial_associations.csv",
+    "bytes": 33938,
+    "sha256": "9c2b29ba14a3430aec987f89d21d8ea39bbcdaaf6c391acadd0c34df4bad1671"
+  },
+  {
+    "archive_path": "tables/S08_spatial_autocorrelation.csv",
+    "bytes": 2384,
+    "sha256": "8ee1ea1dc6f0fb06ba1f5972cf78f8bb68e83803a44eb591ab93ce0684c14048"
+  },
+  {
+    "archive_path": "tables/S09_all_section_region_scores.csv",
+    "bytes": 4251,
+    "sha256": "62982b2b0e9d1ac83db442c1ec2ebc1ccbd48287b0ca19a98f3968f85e37f5f3"
+  },
+  {
+    "archive_path": "tables/S09_donor_paired_region_tests.csv",
+    "bytes": 713,
+    "sha256": "9d13d1ee492cd4cad680e52040c17cd35812916ed8831c953c6884f0f25a09f7"
+  },
+  {
+    "archive_path": "tables/S09_donor_region_scores.csv",
+    "bytes": 2509,
+    "sha256": "ec99ff3bcec13ac898f66a4c60ad474053f95f6a311e5374892d396250d1ba50"
+  },
+  {
+    "archive_path": "tables/S10_DSE_virtual_KO_alternate_seed.csv",
+    "bytes": 65702,
+    "sha256": "db91f6bc00107b7d530540ea7cfbad1f81127eeab5020521312918fcd9d90806"
+  },
+  {
+    "archive_path": "tables/S10_DSE_virtual_KO_primary.csv",
+    "bytes": 66733,
+    "sha256": "42f377d5309ae715dcbfe5e73c7cd092e214d021bd6d7723fa86bb50a42b4cc3"
+  },
+  {
+    "archive_path": "tables/S10_DSE_virtual_KO_without_MS377.csv",
+    "bytes": 65491,
+    "sha256": "ba198aad61adeab77312d567bb8e6efea53e31d44e23e47bb7e7122654741bcc"
+  },
+  {
+    "archive_path": "tables/S11_DRSS_scores_and_group_composition.csv",
+    "bytes": 17352,
+    "sha256": "b3581cdc558cd63d064732a07e6daae66ec52275744547f4c0ffb3bcffae72cd"
+  },
+  {
+    "archive_path": "tables/S11_group_composition_counts.csv",
+    "bytes": 234,
+    "sha256": "51c283d64887a78a2212348215a42f6f7008d44ab67759c66062a52f8e96abd5"
+  },
+  {
+    "archive_path": "tables/S11_original_group_composition.csv",
+    "bytes": 97,
+    "sha256": "2cb64a284aebfdf2b4a80e1695733a14b4733819498da84c26cf79597bc9b138"
+  },
+  {
+    "archive_path": "tables/S12_case_only_immune_complete.csv",
+    "bytes": 24744,
+    "sha256": "6595b9125d7969c011a6b758953f0190501df70db70bf4a129d080a0367cb6ab"
+  },
+  {
+    "archive_path": "tables/S12_checkpoint_coverage.csv",
+    "bytes": 647,
+    "sha256": "d2f5ceb0f4be1c6f4bd2b4ab25d7b8510bef1642bd92357ec9b9590119b17dab"
+  },
+  {
+    "archive_path": "tables/S13_blood_marker_correlations.csv",
+    "bytes": 1488,
+    "sha256": "10330b103bff10ea56fb0df868e0793d16788ba52771038031374dfb458a4ecf"
+  },
+  {
+    "archive_path": "tables/S13_blood_score_specificity.csv",
+    "bytes": 852,
+    "sha256": "55e6555267ff1bbc9614e808a811c468d1d3d7852772a359ad4948c369fd9420"
+  },
+  {
+    "archive_path": "tables/S14_all_198_drug_tests_untrimmed.csv",
+    "bytes": 37651,
+    "sha256": "eeed974c8681d8ff4b14a0ab6f68385d391937aa4274f2693efe5067863a6934"
+  },
+  {
+    "archive_path": "tables/S14_eight_previously_highlighted_drugs.csv",
+    "bytes": 2563,
+    "sha256": "d12692bb484b0bc928676dcfe20a693dff178881745a8094c4ed31b430e48758"
+  },
+  {
+    "archive_path": "tables/S14_gene_drug_correlations.csv",
+    "bytes": 9370,
+    "sha256": "c41af9541344be496c0230f51ee8fbdfbd2472276c10a5eea3b81d53f4ac7eed"
+  },
+  {
+    "archive_path": "tables/S14_IQR_exclusion_sensitivity.csv",
+    "bytes": 22277,
+    "sha256": "874d2e75f99bca7b296ae090cc1380077d6b1f8776c57a08198440b0737acb08"
+  },
+  {
+    "archive_path": "tables/表格索引.csv",
+    "bytes": 3177,
+    "sha256": "4f0416cce8d761ec9f16eaec18bc0534767f2a76f04058ae33578238dca63fd6"
+  },
+  {
+    "archive_path": "machine_learning/analysis_plan_lock.json",
+    "bytes": 1186,
+    "sha256": "fa592f8614124483b146a46ad286ec881e2e2408607a99961ffabc62e617dece"
+  },
+  {
+    "archive_path": "machine_learning/candidate_hyperparameter_grid.json",
+    "bytes": 3092,
+    "sha256": "a302e91cdc8faeb6042055c68a7367235d18b9a38a65135b8947d51ee137e9e4"
+  },
+  {
+    "archive_path": "machine_learning/DRSS_locked_model.rds",
+    "bytes": 32944,
+    "sha256": "0aabb57791ea2214ff00c29d9d70a941933e4114547a4b2b640c3d393813ab78"
+  },
+  {
+    "archive_path": "machine_learning/final_model_parameters.json",
+    "bytes": 264,
+    "sha256": "2f99a2663cd2e7139a7ef57cc35925e8db30a70450b698b7fe4b69df04001153"
+  },
+  {
+    "archive_path": "machine_learning/frozen_rank_gene_universe.txt",
+    "bytes": 74361,
+    "sha256": "0e5c4f949eb7dd697283981a565a30b7f0e82a0a385039603a8b1bc57d30a3e3"
+  },
+  {
+    "archive_path": "machine_learning/GSE17048_features.csv",
+    "bytes": 40372,
+    "sha256": "afa3405336281e5bd5ef30040a2daed1dcba3a51db0eb0ced387ea768dbd57c4"
+  },
+  {
+    "archive_path": "machine_learning/GSE17048_gene_log2.tsv",
+    "bytes": 51707900,
+    "sha256": "262f2396d0c6dd44c03272eb21721eb14d8ef9b56a2bfa1be26a1a35ae6d6d21"
+  },
+  {
+    "archive_path": "machine_learning/GSE17048_metadata.csv",
+    "bytes": 11318,
+    "sha256": "0059593c6a43b40bdef2b4962e00da01d9ec4de9f6ed4724c26accb9e966f1af"
+  },
+  {
+    "archive_path": "machine_learning/GSE17048_oof_DRSS.csv",
+    "bytes": 5902,
+    "sha256": "2ba2dec86ce356b732a995dd15a39f29f0fbb3c22801491ba974c7c8e17dc8f0"
+  },
+  {
+    "archive_path": "machine_learning/GSE203241_features.csv",
+    "bytes": 15642,
+    "sha256": "e11db6a2da1b6f92a04663e31c555f36a76a5123d57b2e6b86f58e403dbfef7f"
+  },
+  {
+    "archive_path": "machine_learning/GSE203241_gene_log2.tsv",
+    "bytes": 8221171,
+    "sha256": "2162bdb584d22c4318268ff947c6735c81e4808b096d73e57fac1d103302be3c"
+  },
+  {
+    "archive_path": "machine_learning/GSE203241_locked_predictions.csv",
+    "bytes": 6856,
+    "sha256": "d2e332f8d86cda704f41b666d1ae44748381dbced735915cc701869e56940dbe"
+  },
+  {
+    "archive_path": "machine_learning/GSE203241_metadata.csv",
+    "bytes": 5476,
+    "sha256": "aff9999db9fd6d44f6143182a11d166081ca01b5b89b5e743c1401abc48a13e7"
+  },
+  {
+    "archive_path": "machine_learning/GSE32915_donor_predictions.csv",
+    "bytes": 307,
+    "sha256": "d4e80652e185ad059719b46bb72218fd6a983a3d9e58556e126ad22e769d94e3"
+  },
+  {
+    "archive_path": "machine_learning/GSE32915_features.csv",
+    "bytes": 4585,
+    "sha256": "950496a82893dce6315524722e99952b0c6132fb8066e1a7e84d81d8c25f982b"
+  },
+  {
+    "archive_path": "machine_learning/GSE32915_gene_log2.tsv",
+    "bytes": 5981467,
+    "sha256": "26b2754cce388a74562fd425d69e605243afc364538a5eda588171716ba9851c"
+  },
+  {
+    "archive_path": "machine_learning/GSE32915_locked_predictions.csv",
+    "bytes": 2326,
+    "sha256": "7d847f35a31b0dc91acbdc497a2e72fbf4cb30b1426f9176d68008cb977717d4"
+  },
+  {
+    "archive_path": "machine_learning/GSE32915_metadata.csv",
+    "bytes": 1968,
+    "sha256": "0eafe136f1d283f447e6179bd5d7ac87e8e3aacd196b10e766a8995025e3ba94"
+  },
+  {
+    "archive_path": "machine_learning/inner_folds_full_training.csv",
+    "bytes": 2479,
+    "sha256": "3004a06060ab46057d2408d1eccf83994db094397262f387de2064c3444bb7ad"
+  },
+  {
+    "archive_path": "machine_learning/inner_folds_outer1.csv",
+    "bytes": 1986,
+    "sha256": "c50a4051625497207ca62a42e556f9c5edc7dad2c9eced29bb294007cfdd6ef9"
+  },
+  {
+    "archive_path": "machine_learning/inner_folds_outer2.csv",
+    "bytes": 1986,
+    "sha256": "5d973c0383e88032cc9bd161277d7532e87244c512bcaeb79a3005b19f22c16d"
+  },
+  {
+    "archive_path": "machine_learning/inner_folds_outer3.csv",
+    "bytes": 1986,
+    "sha256": "89dd1f708710f58b6270f957efd24aa850278589ee2214bb73308ccb09c63572"
+  },
+  {
+    "archive_path": "machine_learning/inner_folds_outer4.csv",
+    "bytes": 1986,
+    "sha256": "88b81182509b5f5fa44041fb501936bc4ac83d85d283048c31a85aafa10b7e99"
+  },
+  {
+    "archive_path": "machine_learning/inner_folds_outer5.csv",
+    "bytes": 2003,
+    "sha256": "fde575dfe9acbe8002fc4a703f22226e02214decb46e0109011a17c25cee46cc"
+  },
+  {
+    "archive_path": "machine_learning/model_selection_full_training.csv",
+    "bytes": 3545,
+    "sha256": "87b283221af629ee46082e79c61bd9a830e3a342c34c7f60df5e11f64ae5570c"
+  },
+  {
+    "archive_path": "machine_learning/model_selection_outer1.csv",
+    "bytes": 3701,
+    "sha256": "3bad766dc6a381af7dcb8254b99f622e3c86c6e79befcc627d79f9b2af23a5d2"
+  },
+  {
+    "archive_path": "machine_learning/model_selection_outer2.csv",
+    "bytes": 3638,
+    "sha256": "37bc0e0d0b29c3ba08bc0bb41ca74a0b3d104c15810bc57a2a66a3e831988770"
+  },
+  {
+    "archive_path": "machine_learning/model_selection_outer3.csv",
+    "bytes": 3584,
+    "sha256": "39870c0b5343a68712a723e35427cd6b206df034ef8134617b1dfab9c7c3c278"
+  },
+  {
+    "archive_path": "machine_learning/model_selection_outer4.csv",
+    "bytes": 3567,
+    "sha256": "816816ad3a2e2773a3d6a87b91b5d240a887300183fadccd53109102c8c0bf9f"
+  },
+  {
+    "archive_path": "machine_learning/model_selection_outer5.csv",
+    "bytes": 3624,
+    "sha256": "e96cc7b36b1a9548ee383f16262a3a9659616ddf35fa54bb2369683d37d9aa62"
+  },
+  {
+    "archive_path": "machine_learning/nested_cv_log.txt",
+    "bytes": 1921,
+    "sha256": "6648c4036cabce3434fcff08500f8e6fadb9a87834aa1532affd5c4b95cfe972"
+  },
+  {
+    "archive_path": "machine_learning/original_GBM_model.rds",
+    "bytes": 59215,
+    "sha256": "363f8a4d8787b755fb7f165ff467c36f7f518128b6ac17ae98847bb17ce15d83"
+  },
+  {
+    "archive_path": "machine_learning/outer_fold_1_model.rds",
+    "bytes": 1447,
+    "sha256": "ecfda1b457552f754afe4f7b61a6d8d0f647ba312243fe7411780fca4fa057ef"
+  },
+  {
+    "archive_path": "machine_learning/outer_fold_2_model.rds",
+    "bytes": 13142,
+    "sha256": "3100a574c17b7bb52ee2857581791aaadeef6f823d408d39ec5ac980e78ddb49"
+  },
+  {
+    "archive_path": "machine_learning/outer_fold_3_model.rds",
+    "bytes": 13127,
+    "sha256": "ba82163e99ff1c9496c5c022054ed24b64de3005dc4d6ff3a1bebdadfb69cdb1"
+  },
+  {
+    "archive_path": "machine_learning/outer_fold_4_model.rds",
+    "bytes": 30276,
+    "sha256": "348ea19320da416621fb8829f09724e4ec8d4697d9acdc56b946d49638fc4bfc"
+  },
+  {
+    "archive_path": "machine_learning/outer_fold_5_model.rds",
+    "bytes": 1447,
+    "sha256": "b9dcfbcfcd1842901699863b25bec1be79ca5a50c5a6ac237da81f74a40b501f"
+  },
+  {
+    "archive_path": "machine_learning/outer_model_selection.json",
+    "bytes": 800,
+    "sha256": "6553877a94a92ab9c6378e77475d49ad82e14a4f07d60fd3896a1994639e374a"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/candidate_hyperparameter_grid.json",
+    "bytes": 3092,
+    "sha256": "a302e91cdc8faeb6042055c68a7367235d18b9a38a65135b8947d51ee137e9e4"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/DRSS_locked_model.rds",
+    "bytes": 155872,
+    "sha256": "f6fd27994bee57f8b8793995d2808960b9995f954f5214023316c858219214b7"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/GSE17048_features.csv",
+    "bytes": 37195,
+    "sha256": "7db561cf3a2b1133ec31be289e9829760187e626106049d5e1f1fee2a1552c87"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/GSE17048_metadata.csv",
+    "bytes": 11318,
+    "sha256": "0059593c6a43b40bdef2b4962e00da01d9ec4de9f6ed4724c26accb9e966f1af"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/GSE17048_oof_DRSS.csv",
+    "bytes": 5668,
+    "sha256": "71e29fca81d9725ef54b75aeeb9b4ec91617628ca240630c4e3ae52e781a68ac"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/inner_folds_full_training.csv",
+    "bytes": 2479,
+    "sha256": "3004a06060ab46057d2408d1eccf83994db094397262f387de2064c3444bb7ad"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/inner_folds_outer1.csv",
+    "bytes": 1986,
+    "sha256": "c50a4051625497207ca62a42e556f9c5edc7dad2c9eced29bb294007cfdd6ef9"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/inner_folds_outer2.csv",
+    "bytes": 1986,
+    "sha256": "5d973c0383e88032cc9bd161277d7532e87244c512bcaeb79a3005b19f22c16d"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/inner_folds_outer3.csv",
+    "bytes": 1986,
+    "sha256": "89dd1f708710f58b6270f957efd24aa850278589ee2214bb73308ccb09c63572"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/inner_folds_outer4.csv",
+    "bytes": 1986,
+    "sha256": "88b81182509b5f5fa44041fb501936bc4ac83d85d283048c31a85aafa10b7e99"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/inner_folds_outer5.csv",
+    "bytes": 2003,
+    "sha256": "fde575dfe9acbe8002fc4a703f22226e02214decb46e0109011a17c25cee46cc"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/model_selection_full_training.csv",
+    "bytes": 3609,
+    "sha256": "c164601ad9e1e4dc772b444862b6a15c5143d7c0c630e3074af3d8ee5271561c"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/model_selection_outer1.csv",
+    "bytes": 3676,
+    "sha256": "573d4c27aef2f19a29a6e17ec7cabfe6a952a5ed93a58745317aa9c0f36c7a44"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/model_selection_outer2.csv",
+    "bytes": 3713,
+    "sha256": "f787ef90fb5a68530a1c832750972a5834792df9921616b1641fc0f7d2d56f4b"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/model_selection_outer3.csv",
+    "bytes": 3730,
+    "sha256": "5c605b023229eb563ccf9b65ec1d6e18ab84603a5a2738be1246f397f58167c4"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/model_selection_outer4.csv",
+    "bytes": 3657,
+    "sha256": "5a7e6cbfebcb0c89ea9767013414fe769b6b2a395e054107a897b635cb909858"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/model_selection_outer5.csv",
+    "bytes": 3647,
+    "sha256": "02eb6ffe7944d77c0cf179a6141ea5a39ece13b85b7c3bc3f3da32f50f18ad76"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/nested_cv_log.txt",
+    "bytes": 554,
+    "sha256": "f83382e8c1797bfe0c0e2fbec7edda2485373ae9200e4c9796a1fc5cb09e4e10"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/OOF_AUC.csv",
+    "bytes": 26,
+    "sha256": "657ca06ccbd4fd998d1cae4b400dfe5e709a4d86bc75d1702f78cfcb5d62e302"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/outer_fold_1_model.rds",
+    "bytes": 1450,
+    "sha256": "7572651056b4f3b3c7d7bccd5e4a59d48fbb479ed86c9eb54acd079d9a3ae795"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/outer_fold_2_model.rds",
+    "bytes": 14714,
+    "sha256": "68460fb2f3366b6e4c5b32fcb7c4995340c77c8c70290616e57debbc16871928"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/outer_fold_3_model.rds",
+    "bytes": 123575,
+    "sha256": "fba9d648a9b8f571756d0af691055129a63b728332a47228aa64e4788c69d3a0"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/outer_fold_4_model.rds",
+    "bytes": 1450,
+    "sha256": "6ffc4ec12a023aad92aada034d30c25f2c460880721c21b7e1d4595bf46818bf"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/outer_fold_5_model.rds",
+    "bytes": 1446,
+    "sha256": "bfe7713c1bef441edbfd6472b34cc7eed72503e2258de85b919737539e17f06b"
+  },
+  {
+    "archive_path": "machine_learning/original_expression_sensitivity/outer_model_selection.json",
+    "bytes": 862,
+    "sha256": "0bae747d87193b54d19c5371241feb7f6960390f0b8ce17a25b7540207f3b895"
+  },
+  {
+    "archive_path": "immune/case_only_log.txt",
+    "bytes": 3644,
+    "sha256": "630f8aa49ef90c9b8c71b1246617d7cd11da9f700e32762a7af139116326add8"
+  },
+  {
+    "archive_path": "immune/original_immune_scores.rds",
+    "bytes": 48242,
+    "sha256": "cbd0e67ec6c0d2de8c5acf1d11df8fc5f11b4d25bcf37c5732bc9170968a3866"
+  },
+  {
+    "archive_path": "immune/recomputed_CIBERSORT.csv",
+    "bytes": 41386,
+    "sha256": "dde6e92f24ea45e5c34f335a0365682de0d2d44e8f75807158718e2f75d7c807"
+  },
+  {
+    "archive_path": "immune/recomputed_CIBERSORT.rds",
+    "bytes": 15940,
+    "sha256": "5adb7e72efe968a592e655187492baf244bdd5b3f2ccb0189d010dda2d5d0c8f"
+  },
+  {
+    "archive_path": "immune/recomputed_ssGSEA.csv",
+    "bytes": 75419,
+    "sha256": "d341b8fb58b158e6af106d44f53a9cf95797d488e574bf164c843783663f2661"
+  },
+  {
+    "archive_path": "immune/recomputed_ssGSEA.rds",
+    "bytes": 31575,
+    "sha256": "062b5b98e1aa912b3c1b376000e9151264f873074cef2a30c5ff8136627d2152"
+  },
+  {
+    "archive_path": "drug/MS_cases_untrimmed_predictions.csv",
+    "bytes": 340387,
+    "sha256": "e5bef7e155ebe953ef56388cb37beda19fd66efc091bbc71f874945100716680"
+  },
+  {
+    "archive_path": "single_nucleus/donor_pseudobulk_counts.rds",
+    "bytes": 6515311,
+    "sha256": "cbe763f391ed76e4dcdbfe1168873be4bc933418d01d31d5538a58ed6f771aac"
+  },
+  {
+    "archive_path": "single_nucleus/selected_normalized_expression.rds",
+    "bytes": 3778566,
+    "sha256": "fca53df63b2e17fd3b203692a86cd1169739e2a8e0362c3219551ca1cc71a2d8"
+  },
+  {
+    "archive_path": "single_nucleus/stromal_counts_and_normalized.rds",
+    "bytes": 3202850,
+    "sha256": "b7bedb60fe46a0c7b42447e482ab4a2f19c15fbc2770e9a20fe007066b7c936f"
+  },
+  {
+    "archive_path": "single_nucleus/lineage_condition_minimal_statistics.rds",
+    "bytes": 9919633,
+    "sha256": "fc9a48734040c6c982368828f47667b9d7b4c1bb97d8119ea474b85751506b2b"
+  },
+  {
+    "archive_path": "single_nucleus/nuclei_metadata.csv",
+    "bytes": 15144169,
+    "sha256": "5259e188185a5e25d799094e5588501748aa306661f380a8b465a508f69114d9"
+  },
+  {
+    "archive_path": "single_nucleus/communication_nuclei.csv",
+    "bytes": 638460,
+    "sha256": "beed3356ffe1f5aab7586a961cb2613682e5a51801dab604bb4e64de0c8c96a2"
+  },
+  {
+    "archive_path": "single_nucleus/CellChat_excluding_B.rds",
+    "bytes": 72511,
+    "sha256": "65c88b28655cffd925ea579b13bbaee38ef30c20ab531c8a0e7636f3d6f694eb"
+  },
+  {
+    "archive_path": "single_nucleus/CellChat_including_B.rds",
+    "bytes": 74592,
+    "sha256": "f290fcecc5ffba5bd87bda72751a4150a39e68bffdb9de2f7a687762e1556b47"
+  },
+  {
+    "archive_path": "single_nucleus/virtual_KO_gene_universe.txt",
+    "bytes": 5862,
+    "sha256": "1d9ddd6a1b4379d4c0775244a5d4e4f9cc8f4cd4d060198ec0fcf3ff4974cacc"
+  },
+  {
+    "archive_path": "single_nucleus/virtual_KO_parameters.json",
+    "bytes": 254,
+    "sha256": "57d98fbf739d70db48dfa9f5b4e4c1a209f625ef6f59daf43f629ea4ade77dbf"
+  },
+  {
+    "archive_path": "single_nucleus/DSE_virtual_KO_primary.rds",
+    "bytes": 759805,
+    "sha256": "2e32b375b13b9ae1ac1cb570f6af29bec0b49862f897f023a805d3f17f893cb0"
+  },
+  {
+    "archive_path": "single_nucleus/DSE_virtual_KO_alternate_seed.rds",
+    "bytes": 701110,
+    "sha256": "588abbc6a62eb6f2449c7f217da22c55709399faef018e680f9dee9151fb83ce"
+  },
+  {
+    "archive_path": "single_nucleus/DSE_virtual_KO_without_MS377.rds",
+    "bytes": 728592,
+    "sha256": "7496ab0b129ef366938cc5b3f6d33c7030bd06101acbbd01d2b8f86e88146a83"
+  },
+  {
+    "archive_path": "spatial/all_spot_scores.rds",
+    "bytes": 4402772,
+    "sha256": "8d9a41d44233e62f7a210a12b1786b1f69b8bd2c279f44d9a7a62c8d54ae38b7"
+  },
+  {
+    "archive_path": "spatial/all_spot_scores.csv.gz",
+    "bytes": 4543503,
+    "sha256": "ba3428e817fb26f4b78edf7521e0afa0ce370b51e56fb6a17487133b44f2f019"
+  },
+  {
+    "archive_path": "spatial/fixed_denominator_applied.txt",
+    "bytes": 174,
+    "sha256": "b3692b90b90974b477becbd1e35997299a9112944459d02eae388d1cf8e7c362"
+  },
+  {
+    "archive_path": "legacy_inputs/Data/GSE17048_mRNA_exp.tsv",
+    "bytes": 37805295,
+    "sha256": "cd089373192567a8ef2334083005a944265126df56f11d5bc112ac48910fb3fe"
+  },
+  {
+    "archive_path": "legacy_inputs/Data/GSE17048_sample_type.txt",
+    "bytes": 2255,
+    "sha256": "5c637515bcc1795edebfd1863e13eae803f07b18f94f7358ac5c1cd68091c8a7"
+  },
+  {
+    "archive_path": "legacy_inputs/Data/GSE32915_mRNA_exp.tsv",
+    "bytes": 2523118,
+    "sha256": "1e2d30144b57b61e3a9f66fdc250426916e7d0064bc020128e0f978c624fc17b"
+  },
+  {
+    "archive_path": "legacy_inputs/Data/GSE32915_sample_type.txt",
+    "bytes": 262,
+    "sha256": "3fbae9ed8f9e3acbe183e2a06704cc46a64c5b54d283b90f7783001054489750"
+  },
+  {
+    "archive_path": "legacy_inputs/Data/二硫中毒相关基因集.txt",
+    "bytes": 120143,
+    "sha256": "34f6540bb1a88ea9eb3e8ec3ee9d65038b2a2fcd9b92459031ed1d9ea58081cb"
+  },
+  {
+    "archive_path": "legacy_inputs/Data/免疫相关基因集.txt",
+    "bytes": 22406,
+    "sha256": "54b08c8281145cf8c7aaedecf96cc1288b925825c57a26d5bcd387e9f28f3953"
+  },
+  {
+    "archive_path": "legacy_inputs/Result1/disulfidptosis_markers.txt",
+    "bytes": 87,
+    "sha256": "e03113796fb42de2c95c450837b3b94ce882dd16032fb33d603356cb7c1a4c2b"
+  },
+  {
+    "archive_path": "legacy_inputs/Result5/calcPhenotype_Output/DrugPredictions.csv",
+    "bytes": 493294,
+    "sha256": "8de23de438f8ba944edcf9ac8516f4e2ee8b6c79f887480f6115662bdd87c7a9"
+  },
+  {
+    "archive_path": "runtime/GSE203241_series_matrix.txt.gz",
+    "bytes": 4944955,
+    "sha256": "c8da3cf679223183fba33058194fe69b9b30623a1b4b8ab61f4af8e20cbad38a"
+  },
+  {
+    "archive_path": "runtime/GPL571.annot.gz",
+    "bytes": 4504226,
+    "sha256": "9f5a482f9f3d478b47fc80124600319e569f1e9ab447f3f256d61b1fbacce4fa"
+  },
+  {
+    "archive_path": "figures/source/Fig1_expression_data.csv",
+    "bytes": 6113,
+    "sha256": "76cd72bc26305e2b6bfd096c03ff0e70b202e8a050697cb984169b0a25f8055c"
+  },
+  {
+    "archive_path": "figures/source/Fig2_calibration_bins.csv",
+    "bytes": 322,
+    "sha256": "24a2887ab7308d77bcb789cc13abd75a80c0f5525c63676986a74dcbe782e74f"
+  },
+  {
+    "archive_path": "figures/source/Fig5_KO_source.csv",
+    "bytes": 744,
+    "sha256": "5e21620e15073e1a11cbb2a5290b8c570b2ed0e6dff62b8a7293b2b77aecc44c"
+  },
+  {
+    "archive_path": "audit/public_spatial_downloads.json",
+    "bytes": 6649,
+    "sha256": "7ce5e3536c7d953cdb0e524980e62a77364f0a8e4beb8f5d4b7d43f3c1becf14"
+  },
+  {
+    "archive_path": "audit/hca_files.txt",
+    "bytes": 115209,
+    "sha256": "92e538be0dad8bb945b942685d12097c83ab88037cc2cbb6c0c4a29047a59257"
+  },
+  {
+    "archive_path": "audit/github_meta.txt",
+    "bytes": 1779,
+    "sha256": "17c8e8dfae7a572d94e86b9afbbb09ac148930fa73f85468e5316fad7538be41"
+  },
+  {
+    "archive_path": "audit/original_DRSS.csv",
+    "bytes": 4761,
+    "sha256": "9e9a5635237cad6a8c11b56335779b58a11d7c1322f1b6c8c43f117f532c89e6"
+  }
+]

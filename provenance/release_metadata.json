@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "target_journal": "PLOS ONE",
+  "publication_status": "manuscript revision, not asserted published",
+  "original_source_files": 82,
+  "data_archive_sha256": "42467bc4a923925f9bc519e812102e984aaafab4265e1ae11b5f7f9121f9360c",
+  "source_hashes": "source_inventory.csv",
+  "license_scope": "MIT for own code; separate licenses for third-party code"
+}
