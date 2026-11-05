@@ -1,5 +1,6 @@
 # MS stromal transcriptomics
 
+The archived version of this repository is available at Figshare (DOI: 10.6084/m9.figshare.34925205).
 Reproducible code accompanying **Stromal transcriptional features and DSE network
 perturbation in multiple sclerosis**, a manuscript revision prepared for PLOS ONE.
 The manuscript is not represented here as an accepted or published article.
